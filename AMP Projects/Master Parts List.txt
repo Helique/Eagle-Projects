@@ -1,0 +1,39 @@
+20k potentiometer x2 -- 688-RK09K1130ACM
+
+1000uF x7 -- 140-REA102M1EBK1320P
+3300uF x0
+red 5mm LED x61
+yellow 5mm LED x6
+green 5mm LED x10
+2.2K 1/4 watt x2
+3.3K 1/4 watt x2
+tactile btn x1
+1uF x2
+.47uF x2 -- 77-VJ1206V474MXXPBC
+10k 1/4 watt x1
+47k resistor 1/4 watt x2
+47 resistor 1/4 watt x2
+22k resistor 1/4 watt x10
+100k x4
+470k 1/4 watt x2
+330 1/4 watt x2
+50k potentiometer x2 -- 688-RK09K1130ACL
+22k potentiometer    x4 -- 313-1520F-25K
+1n4148 x4 -- 583-1N4148-B
+2.2uF x2 --140-REA2R2M2ABK0511P
+6.8uF x2 -- 140-REA6R8M1JBK0511P
+47pF 0805 x2 -- 77-VJ0805A470GXACBC
+10uF x5 -- 140-REA100M1EBK0511P
+47uF x1 -- 140-REA470M1EBK0511P
+22pF 0805 x2 -- 77-VJ0805A220GXXCBC
+100nF 1206 x5 -- 77-VJ1206Y104KXXPBC
+100k trimming potentiometer x2 -- 652-3306F-1-104
+2 skrew terminal x13 -- 571-284391-2
+3 skrew terminal x12 -- 571-284391-3
+LM833N x2 -- 511-LM833DT
+TDA7375V x1 -- 511-E-TDA7375V
+LM7805 -- 511-L7805CV-DG
+LM7905 -- 511-L7905ACV
+LM3916 x2 -- 926-LM3916N-1/NOPB
+MCP6022 -- 579-MCP6022-E/P
+Heatsink -- 567-677-20ABP

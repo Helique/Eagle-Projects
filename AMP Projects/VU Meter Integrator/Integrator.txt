@@ -1,0 +1,10 @@
+22k 1/4 watt x2
+50k potentiometer x2
+100K x4
+100nF x2
+1n4148 x4
+470k 1/4 watt x2
+330 1/4 watt x2
+2.2uF x2
+6.8uF x2
+2 Skrew terminal x4

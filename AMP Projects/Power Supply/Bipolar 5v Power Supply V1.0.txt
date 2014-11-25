@@ -1,0 +1,6 @@
+3300uF x6
+1uF x2
+2 Skrew Terminal x1
+3 Skrew Terminal x3
+LM7805
+LM7905

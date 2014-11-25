@@ -1,0 +1,6 @@
+35W 2 channel 1.225x1.85 1.225 x 1.2
+Input Module 1.5x1.35
+Master Mixer 1.55 x1.95
+VU meter 1x3
+Integrator 1.45x2.05
+Bipolar PowerSupply 1.35x3.35

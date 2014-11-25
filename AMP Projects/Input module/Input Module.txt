@@ -1,0 +1,9 @@
+20k potentiometer x2
+47k resistor 1/4 watt x2
+22k resistor 1/4 watt x2
+47pF 0805 x2
+100nF 1206 x2
+100k trimming potentiometer x2
+2 skrew terminal x2
+3 skrew terminal x1
+LM833N x1

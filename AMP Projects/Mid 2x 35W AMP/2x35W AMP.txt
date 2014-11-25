@@ -1,0 +1,9 @@
+1000uF x1
+.47uF x2
+10k 1/4 watt 
+10uF x1
+47uF x1
+.1uF x1
+2 skrew terminal x4
+3 skrew terminal x1
+

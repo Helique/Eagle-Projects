@@ -1,0 +1,9 @@
+22k 1/4 watt x6
+47 1/4 watt x2
+22k potentiometer x2
+100nF 0805 x2
+10uF 2MM x 5MM x4
+22pF 0805 x2
+3 skrew terminal x7
+2 skrew terminal x2
+LM833N

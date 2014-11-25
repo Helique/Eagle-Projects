@@ -1,0 +1,7 @@
+red 5mm LED x3
+yellow 5mm LED x3
+green 5 mm LED x5
+2.2K 1/4 watt x1 
+3.3K 1/4 watt x1
+tactile btn x1
+LM3916
