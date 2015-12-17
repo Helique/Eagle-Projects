@@ -2050,27 +2050,27 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <parts>
 <part name="U$1" library="NU STEM" deviceset="OPA1604" device="STANDARD"/>
 <part name="U$2" library="NU STEM" deviceset="OPA1604" device="STANDARD"/>
-<part name="C1" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C2" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C3" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C4" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C5" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C6" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C7" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C8" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C9" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C10" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C11" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C12" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C13" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C14" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C15" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C16" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C17" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C18" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C19" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C20" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
-<part name="C21" library="SparkFun-Passives" deviceset="CAP" device="KIT"/>
+<part name="C1" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C2" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C3" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C4" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C5" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C6" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C7" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C8" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C9" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C10" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C11" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C12" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C13" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C14" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C15" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C16" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C17" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C18" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C19" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C20" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
+<part name="C21" library="SparkFun-Passives" deviceset="CAP" device="EZ"/>
 <part name="R1" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W"/>
 <part name="R2" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W"/>
 <part name="R3" library="SparkFun-Passives" deviceset="RESISTOR" device="PTH-1/4W"/>
@@ -2337,6 +2337,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="-30.48" y1="43.18" x2="-30.48" y2="45.72" width="0.1524" layer="91"/>
 <wire x1="-30.48" y1="43.18" x2="-30.48" y2="40.64" width="0.1524" layer="91"/>
 <junction x="-30.48" y="43.18"/>
+<label x="-30.48" y="40.64" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C8" gate="G$1" pin="1"/>
@@ -2345,11 +2346,13 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="58.42" y1="38.1" x2="58.42" y2="40.64" width="0.1524" layer="91"/>
 <wire x1="58.42" y1="38.1" x2="58.42" y2="35.56" width="0.1524" layer="91"/>
 <junction x="58.42" y="38.1"/>
+<label x="58.42" y="35.56" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="1"/>
 <wire x1="144.78" y1="76.2" x2="144.78" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="144.78" y1="81.28" x2="132.08" y2="81.28" width="0.1524" layer="91"/>
+<label x="132.08" y="81.28" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C21" gate="G$1" pin="2"/>
@@ -2358,6 +2361,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="-139.7" y1="-20.32" x2="-139.7" y2="-15.24" width="0.1524" layer="91"/>
 <wire x1="-139.7" y1="-20.32" x2="-139.7" y2="-22.86" width="0.1524" layer="91"/>
 <junction x="-139.7" y="-20.32"/>
+<label x="-139.7" y="-22.86" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="6"/>
@@ -2373,6 +2377,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="-30.48" y1="71.12" x2="-30.48" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="-30.48" y1="71.12" x2="-30.48" y2="76.2" width="0.1524" layer="91"/>
 <junction x="-30.48" y="71.12"/>
+<label x="-30.48" y="76.2" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C5" gate="G$1" pin="1"/>
@@ -2381,11 +2386,13 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="58.42" y1="66.04" x2="58.42" y2="60.96" width="0.1524" layer="91"/>
 <junction x="58.42" y="66.04"/>
 <wire x1="58.42" y1="71.12" x2="58.42" y2="66.04" width="0.1524" layer="91"/>
+<label x="58.42" y="71.12" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="C2" gate="G$1" pin="2"/>
 <wire x1="144.78" y1="55.88" x2="144.78" y2="48.26" width="0.1524" layer="91"/>
 <wire x1="144.78" y1="48.26" x2="132.08" y2="48.26" width="0.1524" layer="91"/>
+<label x="132.08" y="48.26" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U$3" gate="G$1" pin="-"/>
@@ -2394,6 +2401,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="-139.7" y1="10.16" x2="-137.16" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="-139.7" y1="10.16" x2="-139.7" y2="15.24" width="0.1524" layer="91"/>
 <junction x="-139.7" y="10.16"/>
+<label x="-139.7" y="15.24" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="4"/>
@@ -2684,6 +2692,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="167.64" y1="-99.06" x2="167.64" y2="-81.28" width="0.1524" layer="91"/>
 <junction x="167.64" y="-81.28"/>
 <wire x1="167.64" y1="-81.28" x2="185.42" y2="-81.28" width="0.1524" layer="91"/>
+<label x="177.8" y="-81.28" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="3"/>
@@ -2733,6 +2742,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="208.28" y1="-35.56" x2="208.28" y2="-22.86" width="0.1524" layer="91"/>
 <pinref part="U$3" gate="G$2" pin="SIG+"/>
 <wire x1="208.28" y1="-22.86" x2="213.36" y2="-22.86" width="0.1524" layer="91"/>
+<label x="259.08" y="-17.78" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="2"/>
@@ -2748,6 +2758,7 @@ will be further integrated into the Sparkfun Library for other footprints.  It c
 <wire x1="-167.64" y1="0" x2="-177.8" y2="0" width="0.1524" layer="91"/>
 <wire x1="-167.64" y1="-2.54" x2="-167.64" y2="0" width="0.1524" layer="91"/>
 <junction x="-167.64" y="0"/>
+<label x="-175.26" y="0" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="JP1" gate="G$1" pin="1"/>
