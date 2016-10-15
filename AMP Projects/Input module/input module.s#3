@@ -2387,8 +2387,8 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="RV1" library="SparkFun-Electromechanical" deviceset="POT" device="TRIM" value="100K"/>
 <part name="RV2" library="SparkFun-Electromechanical" deviceset="POT" device="TRIM" value="100K"/>
 <part name="JP1" library="SparkFun-Connectors" deviceset="M03" device="SCREW"/>
-<part name="JP2" library="SparkFun-Connectors" deviceset="M02" device="3.5MM-NO_SILK"/>
-<part name="JP3" library="SparkFun-Connectors" deviceset="M02" device="3.5MM-NO_SILK"/>
+<part name="OUT" library="SparkFun-Connectors" deviceset="M02" device="3.5MM-NO_SILK"/>
+<part name="IN" library="SparkFun-Connectors" deviceset="M02" device="3.5MM-NO_SILK"/>
 </parts>
 <sheets>
 <sheet>
@@ -2413,8 +2413,8 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <attribute name="VALUE" x="-10.16" y="43.18" size="1.778" layer="96" rot="MR180"/>
 <attribute name="NAME" x="-10.16" y="29.718" size="1.778" layer="95" rot="MR180"/>
 </instance>
-<instance part="JP2" gate="G$1" x="-27.94" y="93.98"/>
-<instance part="JP3" gate="G$1" x="-27.94" y="78.74"/>
+<instance part="OUT" gate="G$1" x="-27.94" y="93.98"/>
+<instance part="IN" gate="G$1" x="-27.94" y="78.74"/>
 </instances>
 <busses>
 </busses>
@@ -2445,7 +2445,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <label x="-7.62" y="60.96" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="JP3" gate="G$1" pin="2"/>
+<pinref part="IN" gate="G$1" pin="2"/>
 <wire x1="-20.32" y1="81.28" x2="-12.7" y2="81.28" width="0.1524" layer="91"/>
 <label x="-20.32" y="81.28" size="1.778" layer="95"/>
 </segment>
@@ -2532,7 +2532,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <label x="50.8" y="50.8" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="G$1" pin="2"/>
+<pinref part="OUT" gate="G$1" pin="2"/>
 <wire x1="-20.32" y1="96.52" x2="-12.7" y2="96.52" width="0.1524" layer="91"/>
 <label x="-20.32" y="96.52" size="1.778" layer="95"/>
 </segment>
@@ -2577,7 +2577,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <label x="60.96" y="60.96" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="JP3" gate="G$1" pin="1"/>
+<pinref part="IN" gate="G$1" pin="1"/>
 <wire x1="-20.32" y1="78.74" x2="-12.7" y2="78.74" width="0.1524" layer="91"/>
 <label x="-20.32" y="78.74" size="1.778" layer="95"/>
 </segment>
@@ -2588,7 +2588,7 @@ Standard 3-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <wire x1="114.3" y1="50.8" x2="119.38" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="G$1" pin="1"/>
+<pinref part="OUT" gate="G$1" pin="1"/>
 <wire x1="-20.32" y1="93.98" x2="-12.7" y2="93.98" width="0.1524" layer="91"/>
 <label x="-20.32" y="93.98" size="1.778" layer="95"/>
 </segment>
